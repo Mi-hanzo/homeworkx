@@ -1,0 +1,14 @@
+/Users/mihanzo/Desktop/DZS5/bin/Debug/net8.0/DZS5
+/Users/mihanzo/Desktop/DZS5/bin/Debug/net8.0/DZS5.deps.json
+/Users/mihanzo/Desktop/DZS5/bin/Debug/net8.0/DZS5.runtimeconfig.json
+/Users/mihanzo/Desktop/DZS5/bin/Debug/net8.0/DZS5.dll
+/Users/mihanzo/Desktop/DZS5/bin/Debug/net8.0/DZS5.pdb
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.AssemblyInfoInputs.cache
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.AssemblyInfo.cs
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.csproj.CoreCompileInputs.cache
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.dll
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/refint/DZS5.dll
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.pdb
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/DZS5.genruntimeconfig.cache
+/Users/mihanzo/Desktop/DZS5/obj/Debug/net8.0/ref/DZS5.dll
